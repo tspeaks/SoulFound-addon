@@ -1,0 +1,24 @@
+## Interface: 16001, 11508
+## Title: SoulFound
+## Notes: Leveling guidance for the build and playstyle you chose. Guidance only: it never plays for you.
+## Author: Speaks Consulting
+## Version: 0.1.0
+## X-License: MIT
+## SavedVariables: SoulFoundDB
+## SavedVariablesPerCharacter: SoulFoundCharDB
+
+Util.lua
+Json.lua
+Base64.lua
+Codec.lua
+Stats.lua
+State.lua
+Talents.lua
+Gear.lua
+Rewards.lua
+Professions.lua
+Tooltip.lua
+Trace.lua
+UI.lua
+Check.lua
+Core.lua
